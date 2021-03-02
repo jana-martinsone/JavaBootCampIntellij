@@ -1,7 +1,7 @@
 package sef.module3.activity;
 
 /**
- * @author 
+ * @jana-martinsone
  *
  */
 public class OperatorActivity {
@@ -22,10 +22,13 @@ public class OperatorActivity {
 		System.out.println("Difference = " + result);
 		
 		// Add numbers
+		result = i + j;
+		System.out.println("Addition = " + result);
+
 		
 		
 		// Print result
-		
+		System.out.println("Addition = " + result);
 		
 	}
 

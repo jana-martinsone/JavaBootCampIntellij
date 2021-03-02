@@ -6,15 +6,16 @@
       <file url="file://$PROJECT_DIR$/sample/MethodSample.java" />
       <file url="file://$PROJECT_DIR$/sample/MultiDimensionalArraySample.java" />
       <file url="file://$PROJECT_DIR$/sample/WhileLoopSample.java" />
-      <file url="file://$PROJECT_DIR$/activity/PrintNumWithWhile.java" />
-      <file url="file://$PROJECT_DIR$/activity/OperatorActivity.java" />
-      <file url="file://$PROJECT_DIR$/activity/NumToWordsUsingMethod.java" />
-      <file url="file://$PROJECT_DIR$/activity/NumToWords.java" />
-      <file url="file://$PROJECT_DIR$/activity/MultiplicationTable.java" />
-      <file url="file://$PROJECT_DIR$/activity/FindLargest.java" />
-      <file url="file://$PROJECT_DIR$/activity/FindInArray.java" />
       <file url="file://$PROJECT_DIR$/activity/Calculator.java" />
-      <file url="file://$PROJECT_DIR$/activity/AddWholeNum.java" />
+      <file url="file://$PROJECT_DIR$/sef/module3/activity/OperatorActivity.java" />
+      <file url="file://$PROJECT_DIR$/sef/module3/activity/VariableAssignmentActivity.class" />
+      <file url="file://$PROJECT_DIR$/sef/module3/activity/VariableAssignmentActivity.java" />
+      <file url="file://$PROJECT_DIR$/sef/module3/activity/FindLargest.java" />
+      <file url="file://$PROJECT_DIR$/sef/module3/activity/NumToWords.java" />
+      <file url="file://$PROJECT_DIR$/sef/module3/activity/AddWholeNum.java" />
+      <file url="file://$PROJECT_DIR$/sef/module3/activity/MultiplicationTable.java" />
+      <file url="file://$PROJECT_DIR$/sef/module3/activity/PrintNumWithWhile.java" />
+      <file url="file://$PROJECT_DIR$/sef/module3/activity/FindInArray.java" />
     </excludeFromCompile>
   </component>
 </project>

@@ -4,16 +4,14 @@
 package sef.module3.activity;
 
 /**
- * @author 
+ * @jana-martinsone
  *
  */
 public class NumToWordsUsingMethod {
 
-		/**
-		 * @param args
-		 */
 		public static void main(String[] args) {
 			// complete the code to print text value of 8, 9 and 10
+
 
 		}
 
