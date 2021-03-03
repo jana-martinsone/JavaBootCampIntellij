@@ -23,10 +23,7 @@ public class OperatorActivity {
 		
 		// Add numbers
 		result = i + j;
-		System.out.println("Addition = " + result);
 
-		
-		
 		// Print result
 		System.out.println("Addition = " + result);
 		

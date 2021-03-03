@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <excludeFromCompile>
+      <file url="file://$PROJECT_DIR$/activity/Point2D.class" />
+      <file url="file://$PROJECT_DIR$/activity/Point2DImpl.class" />
+      <file url="file://$PROJECT_DIR$/activity/Point2DTest.class" />
+      <file url="file://$PROJECT_DIR$/activity/Point3D.class" />
+      <file url="file://$PROJECT_DIR$/activity/Point3DImpl.class" />
+      <file url="file://$PROJECT_DIR$/activity/Point3DTest.class" />
+      <file url="file://$PROJECT_DIR$/sample/AbstractionSample.java" />
+      <file url="file://$PROJECT_DIR$/sample/Bird.java" />
+      <file url="file://$PROJECT_DIR$/sample/Employee_A.java" />
+      <file url="file://$PROJECT_DIR$/sample/InheritanceSample.java" />
+      <file url="file://$PROJECT_DIR$/sample/InterfaceSample.java" />
+      <file url="file://$PROJECT_DIR$/sample/Lion.java" />
+      <file url="file://$PROJECT_DIR$/sample/Person_A.java" />
+      <file url="file://$PROJECT_DIR$/sample/Person_I.java" />
+      <file url="file://$PROJECT_DIR$/sample/Person_P.java" />
+      <file url="file://$PROJECT_DIR$/sample/PolymorphismSample.java" />
+      <file url="file://$PROJECT_DIR$/sample/ReferenceCastingSample.java" />
+      <file url="file://$PROJECT_DIR$/sample/Student_A.java" />
+      <file url="file://$PROJECT_DIR$/sample/Student_I.java" />
+      <file url="file://$PROJECT_DIR$/sample/Student_P.java" />
+      <file url="file://$PROJECT_DIR$/sample/VirtualMethodSample.java" />
+      <file url="file://$PROJECT_DIR$/sef/module6/activity/Employee_I.java" />
+      <file url="file://$PROJECT_DIR$/sef/module6/activity/InheritanceActivity.java" />
+      <file url="file://$PROJECT_DIR$/sef/module6/activity/Person_I.java" />
+    </excludeFromCompile>
+  </component>
+</project>
