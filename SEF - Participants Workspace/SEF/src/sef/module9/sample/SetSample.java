@@ -1,4 +1,4 @@
-package sef.module9.sample;
+package sample;
 //Needs to be completed
 import java.util.*;
 

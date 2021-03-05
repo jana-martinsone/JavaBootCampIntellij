@@ -1,4 +1,4 @@
-package sef.module17.activity;
+package activity;
 //Needs to be completed
 import java.sql.Connection;
 import java.sql.DriverManager;
@@ -12,9 +12,9 @@ public class EmployeeJDBC {
 	public Connection createConnection()
 	{
 		Connection con=null;
-		String url = "jdbc:mysql://localhost/activity";
-		String user = "root";
-		String pass = "adbd1234";
+		String url = "mysql:mysql-connector-java:jar:8.0.23";
+		String user = "Jana Mrtinsone";
+		String pass = "Marmelade86!";
 
 		try {
 			Class.forName("com.mysql.jdbc.Driver");

@@ -1,9 +1,12 @@
-package sef.module17.sample;
+package sample;
 // Complete Code
+
+import org.junit.Test;
+
 class MyCalculator {
 	
 	public int getSum(int a, int b) {
-		
+
 		return a + b;
 	}
 	
